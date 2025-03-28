@@ -1,1 +1,4 @@
 # wikitest
+
+
+![test](test.jpg)
